@@ -9,7 +9,7 @@ import {
   CallbacksFor,
   Delete,
   ERROR_NOT_IN_RESOLVER,
-} from '@craftjs/utils';
+} from '@tomas-c/craftjs-utils';
 import invariant from 'tiny-invariant';
 
 import { QueryMethods } from './query';

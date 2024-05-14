@@ -1,5 +1,5 @@
-import { Element, useEditor } from '@craftjs/core';
 import { Tooltip } from '@material-ui/core';
+import { Element, useEditor } from '@tomas-c/craftjs-core';
 import React from 'react';
 import styled from 'styled-components';
 

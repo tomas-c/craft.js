@@ -18,7 +18,7 @@ module.exports = {
       appId: 'PH8YTBNA7Q',
       apiKey: '7a21621f37e010ec9a8c39298d71b045',
       indexName: 'craft-js',
-      contextualSearch: false
+      contextualSearch: false,
     },
     prism: {
       theme: require('prism-react-renderer/themes/shadesOfPurple'),
@@ -97,7 +97,7 @@ module.exports = {
             },
             {
               label: 'NPM',
-              href: 'https://npmjs.com/package/@craftjs/core',
+              href: 'https://npmjs.com/package/@tomas-c/craftjs-core',
             },
           ],
         },

@@ -1,4 +1,4 @@
-import { createTestState } from '@craftjs/core';
+import { createTestState } from '@tomas-c/craftjs-core';
 
 export const rootTypographyNodes = {
   T1: {
