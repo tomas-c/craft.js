@@ -1,5 +1,5 @@
-import { useNode } from '@craftjs/core';
 import { Slider, Paper, FormControl, FormLabel } from '@mui/material';
+import { useNode } from '@tomas-c/craftjs-core';
 import React from 'react';
 import { HexColorPicker } from 'react-colorful';
 

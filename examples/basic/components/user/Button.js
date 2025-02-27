@@ -1,4 +1,3 @@
-import { useNode } from '@craftjs/core';
 import {
   Button as MaterialButton,
   FormControl,
@@ -7,6 +6,7 @@ import {
   Radio,
   FormControlLabel,
 } from '@mui/material';
+import { useNode } from '@tomas-c/craftjs-core';
 import React from 'react';
 
 export const Button = ({ size, variant, color, text, ...props }) => {

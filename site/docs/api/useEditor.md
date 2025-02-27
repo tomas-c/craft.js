@@ -84,7 +84,7 @@ const { connectors, actions, query, ...collected } = useEditor(collector);
 
 ### Collecting state information
 ```tsx
-import {useEditor} from "@craftjs/core";
+import {useEditor} from "@tomas-c/craftjs-core";
 
 const Example = () => {
   const { hoveredNodeId } = useEditor((state) => ({
@@ -101,7 +101,7 @@ const Example = () => {
 
 ### Updating props
 ```tsx
-import {useEditor} from "@craftjs/core";
+import {useEditor} from "@tomas-c/craftjs-core";
 
 const Example = () => {
   const { selectedNodeId, actions: {setProp} } = useEditor((state) => ({
@@ -124,7 +124,7 @@ const Example = () => {
 
 ### Creating new Nodes
 ```tsx
-import {useEditor} from "@craftjs/core";
+import {useEditor} from "@tomas-c/craftjs-core";
 
 const Example = () => {
   const { query, actions } = useEditor((state, query) => ({
@@ -219,7 +219,7 @@ const Example = () => {
 > Query methods are also accessible from within the collector function.
 
 ```tsx
-import {useEditor} from "@craftjs/core";
+import {useEditor} from "@tomas-c/craftjs-core";
 
 const Example = () => {
   const { selectedDescendants } = useEditor((state, query) => ({
@@ -297,7 +297,7 @@ const Example = () => {
 ### History
 
 ```tsx
-import {useEditor} from "@craftjs/core";
+import {useEditor} from "@tomas-c/craftjs-core";
 
 const Example = () => {
   const { canUndo, canRedo, actions } = useEditor((state, query) => ({
@@ -352,7 +352,7 @@ For Class Components, use `connectEditor` instead.
 
 ### Example
 ```jsx
-import { connectEditor } from "@craftjs/core";
+import { connectEditor } from "@tomas-c/craftjs-core";
 
 class SidebarInner extends React.Component {
   render() {

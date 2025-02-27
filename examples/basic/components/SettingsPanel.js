@@ -1,4 +1,3 @@
-import { useEditor } from '@craftjs/core';
 import {
   Box,
   Chip,
@@ -6,6 +5,7 @@ import {
   Typography,
   Button as MaterialButton,
 } from '@mui/material';
+import { useEditor } from '@tomas-c/craftjs-core';
 import React from 'react';
 
 export const SettingsPanel = () => {

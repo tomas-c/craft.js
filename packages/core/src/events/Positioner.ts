@@ -1,4 +1,4 @@
-import { getDOMInfo, ROOT_NODE } from '@craftjs/utils';
+import { getDOMInfo, ROOT_NODE } from '@tomas-c/craftjs-utils';
 
 import findPosition from './findPosition';
 

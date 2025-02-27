@@ -1,5 +1,5 @@
-import { useNode } from '@craftjs/core';
 import { Slider, FormControl, FormLabel } from '@mui/material';
+import { useNode } from '@tomas-c/craftjs-core';
 import React, { useState, useEffect } from 'react';
 import ContentEditable from 'react-contenteditable';
 

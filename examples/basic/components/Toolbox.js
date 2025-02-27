@@ -1,5 +1,5 @@
-import { useEditor, Element } from '@craftjs/core';
 import { Box, Typography, Grid, Button as MaterialButton } from '@mui/material';
+import { useEditor, Element } from '@tomas-c/craftjs-core';
 import React from 'react';
 
 import { Button } from './user/Button';

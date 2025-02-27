@@ -1,5 +1,5 @@
-import { EditorState, QueryMethods } from '@craftjs/core';
-import { QueryCallbacksFor } from '@craftjs/utils';
+import { EditorState, QueryMethods } from '@tomas-c/craftjs-core';
+import { QueryCallbacksFor } from '@tomas-c/craftjs-utils';
 import flatten from 'lodash/flatten';
 import { Text } from 'slate';
 

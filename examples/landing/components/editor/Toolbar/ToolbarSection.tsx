@@ -1,10 +1,10 @@
-import { useNode } from '@craftjs/core';
 import {
   Accordion,
   AccordionDetails,
   AccordionSummary,
   Grid2 as Grid,
 } from '@mui/material';
+import { useNode } from '@tomas-c/craftjs-core';
 import React from 'react';
 
 export const ToolbarSection = ({ title, props, summary, children }: any) => {

@@ -1,4 +1,4 @@
-import { ROOT_NODE } from '@craftjs/utils';
+import { ROOT_NODE } from '@tomas-c/craftjs-utils';
 import React from 'react';
 
 import { LayerOptions } from './interfaces';

@@ -1,5 +1,5 @@
-import { Editor, Frame, Element } from '@craftjs/core';
 import { createTheme, ThemeProvider } from '@mui/material';
+import { Editor, Frame, Element } from '@tomas-c/craftjs-core';
 import { NextSeo } from 'next-seo';
 import React from 'react';
 

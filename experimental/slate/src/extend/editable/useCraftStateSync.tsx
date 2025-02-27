@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useEditor } from '@craftjs/core';
+import { useEditor } from '@tomas-c/craftjs-core';
 import isEqual from 'lodash/isEqual';
 import { useEffect, useRef } from 'react';
 import { Editor, Node } from 'slate';

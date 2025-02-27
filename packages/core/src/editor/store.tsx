@@ -2,7 +2,7 @@ import {
   useMethods,
   SubscriberAndCallbacksFor,
   PatchListener,
-} from '@craftjs/utils';
+} from '@tomas-c/craftjs-utils';
 
 import { ActionMethods } from './actions';
 import { QueryMethods } from './query';

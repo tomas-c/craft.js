@@ -1,5 +1,5 @@
-import { useNode, useEditor } from '@craftjs/core';
-import { ROOT_NODE } from '@craftjs/utils';
+import { useNode, useEditor } from '@tomas-c/craftjs-core';
+import { ROOT_NODE } from '@tomas-c/craftjs-utils';
 import * as React from 'react';
 import ReactDOM from 'react-dom';
 import { styled } from 'styled-components';

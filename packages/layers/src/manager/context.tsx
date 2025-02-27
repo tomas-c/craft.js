@@ -1,4 +1,4 @@
-import { SubscriberAndCallbacksFor } from '@craftjs/utils';
+import { SubscriberAndCallbacksFor } from '@tomas-c/craftjs-utils';
 import { createContext } from 'react';
 
 import { LayerMethods } from './actions';

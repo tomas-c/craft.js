@@ -1,4 +1,4 @@
-import { useEditor } from '@craftjs/core';
+import { useEditor } from '@tomas-c/craftjs-core';
 import React, { useLayoutEffect } from 'react';
 
 import { useSlateNode } from '../slate';

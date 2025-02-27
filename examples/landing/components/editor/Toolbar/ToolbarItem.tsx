@@ -1,5 +1,5 @@
-import { useNode } from '@craftjs/core';
 import { Grid2 as Grid, Slider, RadioGroup } from '@mui/material';
+import { useNode } from '@tomas-c/craftjs-core';
 import * as React from 'react';
 
 import { ToolbarDropdown } from './ToolbarDropdown';

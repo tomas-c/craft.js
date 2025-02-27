@@ -1,5 +1,5 @@
-import { NodeId } from '@craftjs/core';
-import { EventHandlerConnectors } from '@craftjs/utils';
+import { NodeId } from '@tomas-c/craftjs-core';
+import { EventHandlerConnectors } from '@tomas-c/craftjs-utils';
 import React from 'react';
 
 import { LayerHandlers } from '../events/LayerHandlers';

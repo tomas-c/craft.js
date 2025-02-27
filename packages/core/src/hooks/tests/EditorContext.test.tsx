@@ -1,8 +1,8 @@
+import { render } from '@testing-library/react';
 import {
   ERROR_USE_EDITOR_OUTSIDE_OF_EDITOR_CONTEXT,
   ERROR_USE_NODE_OUTSIDE_OF_EDITOR_CONTEXT,
-} from '@craftjs/utils';
-import { render } from '@testing-library/react';
+} from '@tomas-c/craftjs-utils';
 import * as React from 'react';
 
 import { useEditor } from '../useEditor';

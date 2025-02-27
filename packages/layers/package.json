@@ -1,5 +1,5 @@
 {
-  "name": "@craftjs/layers",
+  "name": "@tomas-c/craftjs-layers",
   "description": "A Photoshop-like layers panel for your page editor",
   "keywords": [
     "wysiwyg",
@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prevwong/craft.js/"
+    "url": "https://github.com/tomas-c/craft.js/"
   },
   "bugs": {
-    "url": "https://github.com/prevwong/craft.js/issues"
+    "url": "https://github.com/tomas-c/craft.js/issues"
   },
-  "homepage": "https://github.com/prevwong/craft.js/",
+  "homepage": "https://github.com/tomas-c/craft.js/",
   "dependencies": {
-    "@craftjs/utils": "^0.2.5",
+    "@tomas-c/craftjs-utils": "^0.2.5",
     "react-contenteditable": "^3.3.3"
   },
   "devDependencies": {
@@ -44,7 +44,7 @@
     "styled-components": "6.1.13"
   },
   "peerDependencies": {
-    "@craftjs/core": ">=0.2.0",
+    "@tomas-c/craftjs-core": ">=0.2.0",
     "react": "^16.8.0 || ^17 || ^18 || ^19",
     "styled-components": ">= 6.1"
   }

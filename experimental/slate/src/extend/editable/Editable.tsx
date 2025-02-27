@@ -1,4 +1,4 @@
-import { Delete } from '@craftjs/utils';
+import { Delete } from '@tomas-c/craftjs-utils';
 import React, { useCallback } from 'react';
 import { Editable as SlateEditable } from 'slate-react';
 

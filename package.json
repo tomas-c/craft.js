@@ -78,7 +78,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prevwong/craft.js.git"
+    "url": "git+https://github.com/tomas-c/craft.js.git"
   },
   "lint-staged": {
     "packages/**/*.{js,jsx,ts,tsx}": [

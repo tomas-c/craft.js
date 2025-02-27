@@ -7,11 +7,11 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "paths": {
-      "@craftjs/core": ["packages/core/src/index"],
-      "@craftjs/*": ["packages/core/src/*"],
-      "@craftjs/layers": ["packages/layers/src/index"],
-      "@craftjs/utils": ["packages/utils/src/index"],
-      "@craftjs/utils/*": ["packages/utils/src/*"],
+      "@tomas-c/craftjs-core": ["packages/core/src/index"],
+      "@tomas-c/craftjs-core/*": ["packages/core/src/*"],
+      "@tomas-c/craftjs-layers": ["packages/layers/src/index"],
+      "@tomas-c/craftjs-utils": ["packages/utils/src/index"],
+      "@tomas-c/craftjs-utils/*": ["packages/utils/src/*"]
     }
   },
   "exclude": ["**/node_modules/**", "cypress"]

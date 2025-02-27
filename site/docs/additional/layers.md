@@ -12,13 +12,13 @@ A Photoshop-like layers panel for your page editor.
 ## Usage
 
 ```bash
-yarn add @craftjs/layers
+yarn add @tomas-c/craftjs-layers
 ```
 
 ```jsx
 import React from "react";
-import {Editor} from "@craftjs/core"
-import {Layers} from "@craftjs/layers"
+import {Editor} from "@tomas-c/craftjs-core"
+import {Layers} from "@tomas-c/craftjs-layers"
 
 export default function App() {
   return (

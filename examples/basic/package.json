@@ -3,10 +3,10 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "@craftjs/core": "workspace:*",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.4.3",
+    "@tomas-c/craftjs-core": "workspace:*",
     "clsx": "latest",
     "copy-to-clipboard": "3.2.0",
     "lzutf8": "0.5.5",

@@ -1,4 +1,4 @@
-import { ERROR_TOP_LEVEL_ELEMENT_NO_ID } from '@craftjs/utils';
+import { ERROR_TOP_LEVEL_ELEMENT_NO_ID } from '@tomas-c/craftjs-utils';
 import React, { useState } from 'react';
 import invariant from 'tiny-invariant';
 
